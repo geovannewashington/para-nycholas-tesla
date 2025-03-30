@@ -1,6 +1,4 @@
-# para-nycholas-tesla
-Breve explicação de como estudo inglês.
-# Meu Método de Estudo de Inglês (ou qualquer outro idioma)
+# Meu Método de Estudo de Inglês (ou qualquer outro idioma) 🇺🇸 🇬🇧
 
 Salve, Nych! Vou escrever aqui o método que usei nos últimos anos (e que ainda uso) para aprender inglês e qualquer outro idioma que você queira aprender de forma sincera.
 
@@ -12,8 +10,11 @@ Salve, Nych! Vou escrever aqui o método que usei nos últimos anos (e que ainda
 ## Pré-requesitos:
 ### Software: 
 - **Anki** (disponível em versões mobile e web, mas eu prefiro instalar localmente. No Mint, basta usar: `sudo apt install anki` ou baixar o executável no Windows).
+![Anki](https://flathub.org/api/appOgImage/net.ankiweb.Anki?locale=en)
 
 >se não conhece vou dar uma contexualizada: O anki é um programa que automatiza o processo de revisões espaçadas (você deve conhecer o gráfico da curva de esquecimento de Ebbinghaus), a ideia do anki é somente facilitar quando revisar o que. É muito utilizado entre estudantes de idiomas e de medicina, nada te impede, no entanto, de usar para qualquer outra coisa como computação e etc.
+
+![Curva](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2017/01/curva-do-esquecimento-1.png)
 
 ### Extensões (Add-ons):
 - **Necessário**: **AwesomeTTS** (adiciona TTS - "text to speech" - aos seus flashcards, já já explico o que são flashcards, caso você não saiba).
@@ -56,6 +57,8 @@ Note que eu cometi três erros. Então, eu anotaria:
 Agora, vamos jogar essas palavras no **Anki**.
 
 5. Abra o **Reverso Context** (recomendo fazer login para ter mais exemplos, mas lembre-se que às vezes os exemplos não serão 100% precisos).
+
+![reverso-context](https://cdn.reverso.net/context/v72900/images/about/en/exp-0.png)
 
 6. Pesquise cada uma das palavras que você errou.
 
