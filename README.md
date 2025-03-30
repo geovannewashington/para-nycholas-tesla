@@ -37,7 +37,7 @@ Você irá alternar entre **dias de texto e áudio** (do blog) e **dias de seria
 
 3.  Para as palavras que você não conseguiu entender de jeito nenhum, substitua por um símbolo (pode ser três pontos de interrogação `???`, quadradinhos ou o que preferir).
 
-4.  Depois de terminar de escrever, role para baixo e revele o texto completo com a tradução (que fica à direita). Compare o que escreveu com o texto original. Foque nas palavras que você não entendeu e teve que marcar com símbolos, além de corrigir as palavras que você escreveu erradas.## Snippet de texto 
+4.  Depois de terminar de escrever, role para baixo e revele o texto completo com a tradução (que fica à direita). Compare o que escreveu com o texto original. Foque nas palavras que você não entendeu e teve que marcar com símbolos, além de corrigir as palavras que você escreveu erradas.
 
 ### Exemplo de snippet de texto:
 Texto original:
